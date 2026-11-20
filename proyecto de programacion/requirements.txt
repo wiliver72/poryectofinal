@@ -1,0 +1,1 @@
+# El proyecto usa Tkinter, incluido con la instalación estándar de Python.
